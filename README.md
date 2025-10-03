@@ -60,6 +60,8 @@ project/
 ---
 
 ## Dashboard Demo
+<img width="1893" height="891" alt="Dashboard 3" src="https://github.com/user-attachments/assets/37b09c72-c8a7-4e40-8cb8-2c6bc7cadc2c" />
+
 <img width="1910" height="904" alt="Dashboard 1" src="https://github.com/user-attachments/assets/20b4c8bc-937c-4b90-9244-563b4a6ca97b" />
 
 <img width="1914" height="886" alt="Dashboard 2" src="https://github.com/user-attachments/assets/c0603eb4-2a64-4a16-8a27-b57a8c6f6208" />
